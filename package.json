@@ -1,7 +1,7 @@
 {
   "name": "react-dev",
   "version": "1.0.0",
-  "description": "priya new react project",
+  "description": "archit new react project",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
